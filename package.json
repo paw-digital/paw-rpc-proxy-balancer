@@ -1,0 +1,11 @@
+{
+  "name": "Nano Node HTTP Callback Forwarder",
+  "version": "0.0.0",
+  "dependencies": {
+    "bluebird": "3.7.2",
+    "cors": "expressjs/cors",
+    "express": "expressjs/express",
+    "posix": "^4.2.0",
+    "redis": "4.0.4"
+  }
+}
