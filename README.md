@@ -10,4 +10,4 @@ npm install
 
 Update the config variables in rpc_forwarder.js and point to a local certificate.
 
-Run ./start.sh
+Run ```node rpc_forwarder.js``` or ```./start.sh``` to run the balancer in the background 
